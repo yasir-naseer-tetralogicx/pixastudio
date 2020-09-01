@@ -1,2 +1,0 @@
-# pixastudio
-PixaStudio
